@@ -1,0 +1,2 @@
+c:\Users\Edwin\Documents\Visual Studio 2015\Projects\MapTest\MapTest\MapTest.WinPhone\MapTest.WinPhone.csproj;neutral
+c:\Users\Edwin\Documents\Visual Studio 2015\Projects\MapTest\MapTest\MapTest\MapTest.csproj;neutral

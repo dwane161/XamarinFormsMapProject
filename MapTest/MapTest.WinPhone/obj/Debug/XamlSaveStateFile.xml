@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\edwin\documents\visual studio 2015\projects\maptest\maptest\maptest.winphone\obj\debug\intermediatexaml\maptest.winphone.exe" HashGuid="69bbae81-c1a6-a3db-01ea-5fc76e6779fa" />
+    <ReferenceAssembly PathName="c:\users\edwin\documents\visual studio 2015\projects\maptest\maptest\maptest\bin\debug\maptest.dll" HashGuid="6050554e-0651-c5a3-c7f0-28bfa38d5c07" />
+    <ReferenceAssembly PathName="c:\users\edwin\documents\visual studio 2015\projects\maptest\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="c:\users\edwin\documents\visual studio 2015\projects\maptest\packages\xamarin.forms.maps.2.3.3.175\lib\wpa81\xamarin.forms.maps.dll" HashGuid="ed9c28df-835e-9228-f013-bb1216e25d67" />
+    <ReferenceAssembly PathName="c:\users\edwin\documents\visual studio 2015\projects\maptest\packages\xamarin.forms.maps.2.3.3.175\lib\wpa81\xamarin.forms.maps.winrt.phone.dll" HashGuid="3135e740-c5f2-4d65-dc3f-ed8420117299" />
+    <ReferenceAssembly PathName="c:\users\edwin\documents\visual studio 2015\projects\maptest\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\edwin\documents\visual studio 2015\projects\maptest\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="c:\users\edwin\documents\visual studio 2015\projects\maptest\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="63c58f91-4202-fe55-ec2a-7e34dee9505b" />
+    <ReferenceAssembly PathName="c:\users\edwin\documents\visual studio 2015\projects\maptest\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
