@@ -94,6 +94,8 @@ C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProjec
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Forms.GoogleMaps.Android.dll
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Forms.GoogleMaps.dll
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Forms.Maps.dll
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
@@ -103,7 +105,6 @@ C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProjec
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\MapTest.pdb
-C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\MapTest.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\FormsViewGroup.pdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Forms.Core.pdb
@@ -128,8 +129,9 @@ C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProjec
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\obj\Debug\res\values\styles.xml
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\obj\Debug\R.cs.flag
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\obj\Debug\uploadflags.txt
-C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Java.Interop.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\MapTest.Droid.dll.mdb
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\MapTest.dll.mdb
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Java.Interop.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Mono.Android.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\mscorlib.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
@@ -157,7 +159,5 @@ C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProjec
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Forms.GoogleMaps.Android.dll
-C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\Xamarin.Forms.GoogleMaps.dll
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\obj\Debug\MapTest.Droid.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest.Droid\bin\Debug\MapTest.Droid.dll.mdb

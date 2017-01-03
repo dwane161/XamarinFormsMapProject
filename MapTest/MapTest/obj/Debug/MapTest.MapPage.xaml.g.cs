@@ -17,8 +17,12 @@ namespace MapTest {
     public partial class MapPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.GoogleMaps.Map gmap;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(MapPage));
+            gmap = this.FindByName<global::Xamarin.Forms.GoogleMaps.Map>("gmap");
         }
     }
 }

@@ -1,11 +1,12 @@
 ﻿using System;
-
+using Xamarin.Forms;
 using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Xamarin;
 
 namespace MapTest.Droid
 {
@@ -21,6 +22,8 @@ namespace MapTest.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
             Xamarin.FormsMaps.Init(this, bundle);
+
+            FormsGoogleMaps.Init(this, bundle);
 
             var width = Resources.DisplayMetrics.WidthPixels;
             var height = Resources.DisplayMetrics.HeightPixels;

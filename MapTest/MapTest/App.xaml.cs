@@ -13,7 +13,7 @@ namespace MapTest
         {
             InitializeComponent();
 
-            MainPage = new MapTest.MapPage();
+            MainPage = new NavigationPage(new MapTest.MapPage());
         }
 
         protected override void OnStart()

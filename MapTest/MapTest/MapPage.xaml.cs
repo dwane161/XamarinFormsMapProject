@@ -1,20 +1,29 @@
 ﻿//using Xamarin.Forms.Maps;
 using Xamarin.Forms.GoogleMaps;
 using Xamarin.Forms;
+using System.Linq;
 
 namespace MapTest
 {
     public partial class MapPage : ContentPage
     {
-        Xamarin.Forms.GoogleMaps.Map gmap = new Xamarin.Forms.GoogleMaps.Map();
         Polyline poliline = new Polyline();
+        Geocoder gcoder = new Geocoder();
         public MapPage()
         {
             InitializeComponent();
 
+
             poliline.StrokeColor = Color.Red;
             poliline.StrokeWidth = 5f;
             poliline.Tag = "New Route";
+
+            //gmap.Polylines.Add(poliline);
+            gmap.MoveToRegion(MapSpan.FromCenterAndRadius(new Position(18.482146, -69.939571), Distance.FromMiles(1.0)));
+
+            gmap.MapLongClicked += Gmap_MapLongClicked; ;
+
+            //Content = gmap;
 
             //var poliline = new Polyline();
             //poliline.Positions.Add(new Position(37.797534, -122.401827));
@@ -37,13 +46,6 @@ namespace MapTest
             //poliline.StrokeColor = Color.Blue;
             //poliline.StrokeWidth = 5f;
             //poliline.Tag = "POLYLINE";
-
-            //gmap.Polylines.Add(poliline);
-            gmap.MoveToRegion(MapSpan.FromCenterAndRadius(new Position(37.79752, -122.40183), Distance.FromMiles(1.0)));
-
-            gmap.MapClicked += Gmap_MapClicked;
-
-            Content = gmap;
 
             //CustomMap customMap = new CustomMap()
             //{
@@ -82,45 +84,57 @@ namespace MapTest
             //Content = customMap;
         }
 
-        private void Gmap_MapClicked(object sender, MapClickedEventArgs e)
-        {            
+        private async void Gmap_MapLongClicked(object sender, MapLongClickedEventArgs e)
+        {
+            var aproximatedLocation = await gcoder.GetAddressesForPositionAsync(e.Point);
+
+            string street = aproximatedLocation.First();
+
             Pin pin = new Pin
             {
                 Position = e.Point,
-                Label = "HOLA",
-                IsDraggable = true
+                Label = "label",
+                IsDraggable = true,
+                Address = street
+
             };
 
             poliline.Positions.Add(pin.Position);
 
             gmap.Pins.Add(pin);
 
-            Drawer();                            
+            Drawer();
         }
 
         private void Drawer()
         {
-            if (poliline.Positions.Count > 1)
+            if (poliline.Positions.Count > 2)
             {
                 gmap.Polylines.Clear();
                 gmap.Polylines.Add(poliline);
                 foreach (Pin pin in gmap.Pins)
                 {
                     pin.PropertyChanged += Pin_PropertyChanged;
+                    
                 }
-                
+
             }
         }
 
-        private void Pin_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
+        private async void Pin_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
         {
             poliline.Positions.Clear();
             gmap.Polylines.Clear();
             foreach (Pin pin in gmap.Pins)
             {
+                //var aproximatedLocation = await gcoder.GetAddressesForPositionAsync(pin.Position);
+                //string street = aproximatedLocation.First();
+                //pin.Address = street;
+
                 poliline.Positions.Add(pin.Position);
             }
             gmap.Polylines.Add(poliline);
         }
+
     }
 }
