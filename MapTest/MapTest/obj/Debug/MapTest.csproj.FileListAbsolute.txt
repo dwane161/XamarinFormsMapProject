@@ -41,3 +41,26 @@ C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProjec
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest\obj\Debug\MapTest.dll.mdb
 C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\MapTest.dll.mdb
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\MapTest.dll
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\MapTest.pdb
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.GoogleMaps.dll
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\obj\Debug\MapTest.MainPage.xaml.g.cs
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\obj\Debug\MapTest.App.xaml.g.cs
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\obj\Debug\MapTest.MapPage.xaml.g.cs
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\obj\Debug\MapTest.dll
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\obj\Debug\MapTest.pdb
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\obj\Debug\MapTest.dll.mdb
+C:\Users\Dwane Jimenez\Desktop\XamarinFormsMapProject\MapTest\MapTest\bin\Debug\MapTest.dll.mdb

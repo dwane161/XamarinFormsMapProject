@@ -20,9 +20,13 @@ namespace MapTest {
         private global::Xamarin.Forms.GoogleMaps.Map gmap;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button btnGuardarRestaurante;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(MapPage));
             gmap = this.FindByName<global::Xamarin.Forms.GoogleMaps.Map>("gmap");
+            btnGuardarRestaurante = this.FindByName<global::Xamarin.Forms.Button>("btnGuardarRestaurante");
         }
     }
 }
